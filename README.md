@@ -2,7 +2,7 @@
 ### Olá, eu sou o Vinícius Roque! 😀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciussouzaroque/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:contatohownatios@gmail.com")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:contatohownatios@gmail.com>)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](facebook.com/Hownatios/)
 
 ![Roque GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusSouzaRoque&show_icons=true&theme=dracula)
