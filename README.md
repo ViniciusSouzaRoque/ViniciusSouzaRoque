@@ -11,8 +11,8 @@
 <div style="display: inline_block"><br/>
     <a><img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>    
     <a><img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>    
-    <a><img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a> 
-    <a><img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a> 
+    <a><img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-3776AB?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a> 
+    <a><img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=unity&logoColor=black" /></a> 
     
     
 </div>
